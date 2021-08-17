@@ -76,4 +76,3 @@ Tensorboard results can be plotted using the following command:
   tensorboard dev upload --logdir runs
 ```
 
-Create a directory named 'run' in the same folder where all your files are stored. This directory will be used to store the tensorboard results
