@@ -12,7 +12,7 @@ import soundfile as sf
 from pydub import AudioSegment
 
 # Defining paths to relevant folders
-clean_data = 'data/clean_testset_wav-copy'
+clean_data = 'data/clean_testset_wav'
 enhanced_data = 'data/enhanced-audio'
 
 # Trimming clean audio data to match length of generated audio 
